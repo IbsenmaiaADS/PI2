@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>Formulário</title>
+</head>
+<body>
+<form action="inserir_teste.php">
+<h3>Cadastro teste</h3>
+<hr>
+<label for="nome">Digite o código</label>
+<!--
+<input type="number" min="0" name="codigo" id="codigo">
+-->
+<input type="text" pattern="[1-9]{1}[0-9]{0,}" required name="codigo" id="codigo">
+<BR>
+<label for="nome">Digite o nome</label>
+<input type="text" required name="nome" id="nome">
+<BR>
+<input type="submit" value="Enviar">
+</form>
+</body>
