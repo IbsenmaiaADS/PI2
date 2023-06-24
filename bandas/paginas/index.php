@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="revista.css" />
+    <title>Página inicial</title>
+  </head>
+  <body>
+    <header>
+      <div class="flex-container menu">
+        <div><h1>Música em revista</h1></div>
+        <ul class="list-menu">
+          <li><a href="index.html" target="_blank">Página inicial</a></li>
+          <li><a href="bandas.html" target="_blank">Bandas</a></li>
+          <li><a href="cadastro.html" target="_blank">Cadastro</a></li>
+          <li><a href="cifra.html" target="_blank">Cifras</a></li>
+        </ul>
+      </div>
+    </header>
+    <div class="flex-container entrevista">
+      <div class="texto-entrevista">
+        <h1>Sua revista de música digital</h1>
+        <h2> <a href="https://www.paulmccartney.com/" target="_self"> Entrevista Paul McCartney </a></h2>
+        
+        <p>
+          Em uma nova entrevista exclusiva para a Reader’s Digest, Sir Paul
+          McCartney falou sobre sua relação com os fãs ao longo de sua carreira,
+          sobre o ato de dar autógrafos e o porquê se cansou desta
+          prática.“Sempre me pareceu um pouco estranho. Tipo, ‘você poderia
+          escrever o seu nome atrás deste recibo, por favor?’ Por quê? Nós dois
+          sabemos quem eu sou,” disse ele. Paul McCartney ainda falou sobre a
+          ideia de tirar selfies com fãs. O músico disse que “não entende” muito
+          bem essa moda e que prefere conversar com seus admiradores a tirar
+          fotos: “O que você geralmente tem é uma foto feia com um cenário ruim
+          e eu parecendo um pouco infeliz”, disse ele. “Vamos conversar, vamos
+          trocar histórias”, concluiu. Paul McCartney volta a falar sobre o fim
+          dos Beatles: “Lennon instigou” Quem é o verdadeiro responsável pelo
+          fim dos Beatles? Essa é uma pergunta que gera diferentes respostas
+          entre os fãs da banda, mas agora Paul McCartney voltou a falar sobre o
+          assunto e confirmou que a decisão foi “instigada” por John Lennon. “Eu
+          não instiguei o fim. Quem fez isso foi o nosso Johnny. John entrou em
+          uma sala um dia e disse ‘estou saindo dos Beatles’. Isso é instigar o
+          fim ou não? Aquela era a minha banda, aquele era o meu trabalho,
+          aquela era a minha vida, então eu queria que continuasse.” Na mesma
+          entrevista a BBC 4, Paul McCartney ainda descreveu esse período como
+          “o mais difícil” de sua vida. Ele explicou que, após a decisão de John
+          Lennon, ele, Ringo Starr e George Harrison foram advertidos pelo
+          empresário Allen Klein a se manterem em silêncio sobre o fim da banda
+          até que todos os negócios previamente fechados para eles fossem
+          concluídos.
+        </p>
+      </div>
+    </div>
+    <div class="flex-container">
+      <div>
+        <div><img src="../imagem/paul.jpg" alt="Paul" /></div>
+      </div>
+      <iframe
+        width="640"
+        height="480"
+        margin-top="10%"
+        src="https://www.youtube.com/embed/CiQafwC2iY4"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      >
+      </iframe>
+    </div>
+    <div class="flex-container entrevista">
+      <div class="texto-entrevista">
+        <h2><a href="https://www.davidbowie.com/" target="_self">Quem foi David Bowie</a></h2>
+        <p>
+          David Bowie cantor, compositor, ator e produtor inglês. Por Dilva
+          Frazão Biblioteconomista e professora Biografia de David Bowie David
+          Bowie (1947-2016) foi um cantor, compositor e produtor inglês. Durante
+          anos esteve na linha de frente do pop e do rock. Recebeu o apelido de
+          camaleão do rock pelas mudanças de estilo musical e por encarnar
+          personagens temáticos em alguns de seus álbuns. Entre seus sucessos
+          destacam-se: "Space Oddity”, "Life on Mars", "Heroes" e "Ziggy
+          Stardust. David Bowie, nome artístico de David Robert Jones, nasceu em
+          Brixton, Londres, no dia 08 de janeiro de 1947. Em 1953 sua família
+          mudou-se para o subúrbio de Bromley. Ingressou no Burnt Ash Junior
+          School, onde já demonstrava dotes musicais através do canto Ao ouvir
+          músicas cantadas por The Platters, Elvis Presley, Fast Domino e Little
+          Richard, foi inspirado a ingressar ao mundo do rock. Começou a
+          aprender ukulele, tea chest bass e se apresentar para os amigos
+          imitando Elvis Presley e Chuch Berry. Início da carreira Com 15 anos,
+          David Bowie formou a sua primeira banda, a Kon-rads, que tocou em
+          diversos eventos. Seu primeiro single foi "Liza Jane", que não chegou
+          a fazer sucesso. Ainda em 1962, Bowie envolveu-se em uma briga por
+          causa de uma garota. George Underwood lhe deu um soco no olho esquerdo
+          usando um grande anel no dedo. Apesar de operado, o dano não pode ser
+          reparado e David ficou com a pupila permanentemente dilatada,
+          alterando a cor do olho atingido. David que tinha os dois olhos azuis
+          ficou com a cor de um olho alterada dando impressão que usava um olho
+          de vidro. Depois de várias empreitadas em bandas de rock mal
+          sucedidas, David lançou o demo, “Space Oddity”, em 1969, que coincidiu
+          com a chegada do homem à Lua. A música ficou em 5.º lugar na
+          Inglaterra, sendo o primeiro grande sucesso de Bowie. Década de 70 A
+          partir de 1970, David Bowie criou álbuns que seguiam a onda do rock
+          pesado experimental, “The Man Who Sold the World” (1970) e “Hunky
+          Dory” (1971) que foram elogiados pela crítica e público. Em 1972
+          lançou um dos maiores álbuns da história do rock e de sua carreira:
+          "The Rise and Fall of Ziggy Stardust and the Spiders from Mars". Era
+          um álbum conceitual tendo como personagem o alter-ego andrógino Ziggy
+          Stardust e a música de mesmo nome, fez grande sucesso juntamente com
+          “Starman”. Nesse álbum, Bowie exacerbou o Glam Rock, segmento musical
+          que mesclava o rock tradicional com a androginia e elementos cênicos.
+          Bowie teve uma carreira brilhante nos anos 70, com excelentes álbuns,
+          entre eles: “Aladdin Sane” (1973), “Diamond Dogs” (1974) e seu grande
+          sucesso nos EUA, a canção “Fame”, que escreveu em parceria com John
+          Lennon, do Álbum “Young Americans”. david bowie Em seguida, David
+          criou outro personagem, Thin White Duke (que em um lance temerário,
+          deu entrevista proclamando Hitler como um dos primeiros rocks stars),
+          incluído no álbum “Station To Station” (1976). Na segunda metade dos
+          anos 70, quando se tornou parceiro de Brian Eno – um músico de família
+          aristocrática e pretensões experimentais, Browie trouxe também uma
+          aura intelectual para seu trabalho A colaboração com Eno, foi
+          fundamental na trilogia alemã de Bowie – os discos “Low” e “Heroes”
+          lançados em 1977 e “Lodgern em 1979, nos quais a paisagem cultural de
+          Berlim está muito presente. Década de 80 Em 1980 Bowie lançou o álbum
+          “Scary Monsters (and Super Creeps)” quando a canção “Ashes to Ashes”
+          alcançou o topo das paradas britânicas. Em 1983 Bowie lançou seu
+          décimo quinto álbum de estúdio, “Let’s Dance”, que contém os três dos
+          singles de maior sucesso do cantor: a faixa título “Let’s Dance, que
+          chegou ao n.º 1 das paradas, além de “Modern Love” e “China Girl” que
+          chegaram ao segundo lugar na Inglaterra. David Bowie Em 1984 lançou
+          “Tonight, cantando com Tina Turner. Em 1985 se apresentou no Estádio
+          de Wembley, com vários cantores, para arrecadar fundos para acabar com
+          a fome na Etiópia. Durante o evento, Bowie gravou um videoclipe com
+          Mick Jagger, em que cantam e dançam juntos na canção “Dancing in the
+          Steet”, que conquistou a primeira posição nas paradas. Em 1989 criou o
+          quarteto "Tin Machine", que teve uma popularidade inicial, apesar das
+          letras politizadas não conquistarem a aprovação do seu público. O
+          álbum Tin Machine" alcançou a terceira posição na Inglaterra e a turnê
+          mundial foi um sucesso, apesar dos fãs não aceitarem as apresentações
+          de Bowie como mero membro da banda. Em seguida, Bowie retornou a
+          carreira solo e reuniu seus maiores sucessos no álbum “Tonight” e
+          iniciou uma turnê começando pelos países da América do Sul, entre
+          eles, o Brasil. Seu último álbum nessa década foi “Never Let Me Down”
+          (1987), onde apresenta um rock pesado com uma mistura de techno e
+          industrial, que conquistou a sexta posição nas paradas britânicas com
+          as músicas: “Day-in Day-Out, “Time Will Crawl” e “Never Let Me Down”.
+          Década de 90 Em 1991 o quarteto "Tin Machine" voltou a se apresentar,
+          porém o público não mostrou muito interesse. O lançamento de um disco
+          com os integrantes retratados nus, em forma de estátua, foi
+          considerado obsceno. Não demorou muito para o grupo se separar e Bowie
+          voltar à carreira solo. Entre os discos lançado nesse período
+          destacam-se: “Cool World” (1992), “The Buddha of Suburbia” (1993),
+          “Black Tie White Noise” (1993), “Outside” (1995) Earthling” (1997) e
+          “Hours” (1999). Anos 2000 Nos anos 2000, lançou o “Heathen” (2002)
+          depois dos ataques de 11 de setembro nos EUA, acontecimento que
+          inspirou o sombrio álbum, porém, bastante elogiado. Em seguida, veio o
+          “Reality” (2003). Depois desse lançamento, Bowie sofreu um infarto
+          enquanto realizava uma turnê em 2004 e resolveu aposentar-se, porém,
+          fez algumas apresentações ao vivo com outros artistas. Recuperado,
+          Bowie voltou a gravar e lançou: Live Santa Monica ‘72” (2008), “Toy”
+          (2011), “The Next Day” (2013) e “Blackstar” (2016). Paralelamente à
+          música, David Bowie atuou em alguns filmes, entre eles: "Christiane
+          F." (1981) (sendo ele mesmo numa banda de rock); “Fome de Viver"
+          (1983) fazendo personagem de vampiro contracenando com Catherine
+          Deneuve e “A Última Tentação de Cristo” (1988) de Martin Scorsese,
+          entre outros. David Bowie já deu declarações de que era bissexual,
+          embora tenha desmentido depois. Esteve casado com a modelo somali Iman
+          Abdulmajid desde 1992. David Bowie foi considerado um dos artistas
+          mais influentes do Rock e Pop do século XX e ganhou diversos prêmios,
+          como a certificações de ouro no Reino Unido. Foi considerado pela
+          revista Rolling Stone como o 39.º artista em lista de 100. David Bowie
+          faleceu em Manhattan, Nova Iorque, Estados Unidos, no dia 10 de
+          janeiro de 2016, em decorrência de um câncer no fígado.
+        </p>
+      </div>
+    </div>
+    <div class="flex-container">
+      <div>
+        <div><img src="../imagem/david.jpg" alt="Paul" /></div>
+      </div>
+      <iframe
+        width="640"
+        height="480"
+        src="https://www.youtube.com/embed/1AvF-l12s3I"
+        title="David Bowie : Starman (Tokyo 1990)"
+        frameborder="0"
+        allow="accelerometer; autoplay; 
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+      ></iframe>
+    </div>
+
+    <button id="myBtn">Data</button>
+    <p id="demo"></p>
+
+    <script>
+      //Adicionando o evento quando clicar no botão
+      document.getElementById("myBtn").onclick = mostrarData;
+      function mostrarData() {
+        document.getElementById("demo").innerHTML = Date();
+      }
+    </script>
+  </body>
+</html>
